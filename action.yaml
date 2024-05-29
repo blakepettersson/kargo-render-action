@@ -14,5 +14,4 @@ inputs:
 runs:
   using: docker
   image: docker://ghcr.io/akuity/kargo-render:v0.1.0-rc.39
-  args:
-  - action
+  args: action
